@@ -1,5 +1,7 @@
 # Todo App
 
+Please note that this is a work-in-progress.
+
 A simple Todo App built using React and Node.js. This app allows users to manage their tasks, mark them as completed, and delete them.
 
 Features
